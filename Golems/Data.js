@@ -189,7 +189,7 @@ var dynamicData = {
 			"baseSpeed" : 0.5,
 			"maxBoost" : 0,
 			"boost" : 0,
-			"active" : false,
+			"active" : true,
 			"cooldown" : 0,
 			"maxCooldown" : 1
 		},
